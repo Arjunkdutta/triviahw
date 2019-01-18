@@ -1,0 +1,23 @@
+body {
+background-image: url("https://www.maserati.com/mediaObject/sites/international/Models/Ghibli/ghibli-MY18/gs/Maserati-Ghibli-GranSport-MY18-9/resolutions/res-l1440x10000/Maserati-Ghibli-GranSport-MY18-9.jpeg")
+}
+
+.navbar {
+	background-color: blue;
+}
+
+.main {
+	background-color:whitesmoke;
+	padding: 10%;
+	color: black;
+}
+
+.start {
+	background-color:white;
+}
+
+.answers p:hover {
+	color: black;
+	border: 2px;
+	border-style: solid;
+}
